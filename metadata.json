@@ -1,0 +1,7 @@
+{
+  "name": "Bongdevs AI Video Suite",
+  "description": "A pro-grade multi-scene storyboard suite powered by Bongdevs AI technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
