@@ -1,4 +1,3 @@
-
 {
   "name": "bongdevs-ai-video-suite",
   "private": true,
@@ -10,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@google/genai": "^1.39.0",
+    "@google/genai": "^1.40.0",
     "lucide-react": "^0.463.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
